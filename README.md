@@ -21,7 +21,7 @@
 - 这里的文章的内容会尽可能地只从知识来源最原始的地方取材
 - 这里的文章通常只会指出大概的方向和点明关键的地方，除非空闲时间很多，否则不会深入太多细节，或细节会留以后的续篇补充
 - 这里的文章如果没有特别说明，均为JPMike所写
-- 如果是JPMike所写，则采用以下协议进行授权：[自由转载-非商用-非衍生-保持署名 | Creative Commons BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)，转载请注明作者及出处
+- 如果是JPMike所写，则采用以下协议进行授权：[自由转载-非商用-非衍生-保持署名 Creative Commons BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)，转载请注明作者及出处
 - 这里是公开同时也是个人的仓库，不接受除了自己以外的任何Issues，恶意提交者将会被拉进黑名单
 
 ## 目录与分类
